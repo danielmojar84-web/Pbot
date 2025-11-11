@@ -1,0 +1,16 @@
+{
+  "name": "fb-pagebot",
+  "version": "1.0.0",
+  "description": "A complete Facebook Messenger Pagebot with admin, ban, and economy features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "danielmojar84-web",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "node-fetch": "^3.3.2"
+  }
+}
